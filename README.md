@@ -3,7 +3,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=35&duration=2500&pause=1000&color=C38EB4&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+I'm+Fatimah!+%E2%99%A1;Welcome+to+my+little+space+%F0%9F%8C%B7;Nice+to+meet+you!+%F0%9F%8E%80&repeat=true" />
 </div>
 
-## 🎀 About Me
+<h2>
+  <img src="./assets/love.gif" width="80" align="absmiddle">
+  About Me
+</h2>
 
 <img align="right" src="./assets/ngoding.gif" width="150" hspace="20">
 
@@ -15,21 +18,14 @@
 
 --- 
 
-## 💗 Languages & Tools
-
-<div align="left">
-
-**Languages**
-
+<h2>
+  <img src="./assets/tools.gif" width="80" align="absmiddle">
+  Languages
+</h2>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mysql&theme=light" />
-
-<br>
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
-
 </div>
+
 ---
 
 ## 🌷 GitHub Contributions
@@ -43,7 +39,10 @@
 
 ---
 
-## 🦢 Let's Connect!
+<h2>
+  <img src="./assets/Angsa.gif" width="80" align="absmiddle">
+  Let's Connect!
+</h2>
 
 <div align="center">
 
