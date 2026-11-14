@@ -5,7 +5,7 @@
 
 ## 🎀 About Me
 
-<img align="right" src="./assets/ngoding.gif" width="150" hspace="30">
+<img align="right" src="./assets/ngoding.gif" width="150" hspace="20">
 
 - 🎓 Information Engineering Student at Universitas Pancasila
 - 💻 Interested in Software Development
