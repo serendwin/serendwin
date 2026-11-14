@@ -85,6 +85,14 @@
 <img src="https://img.shields.io/badge/LinkedIn-EADCF8?style=for-the-badge&logo=linkedin&logoColor=8E6B91"/>
 </a>
 
+<a href="https://instagram.com/imahsprt">
+<img src="https://img.shields.io/badge/Instagram-EADCF8?style=for-the-badge&logo=instagram&logoColor=8E6B91"/>
+</a>
+
+<a href="mailto:twentyhours133@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EADCF8?style=for-the-badge&logo=gmail&logoColor=8E6B91"/>
+</a>
+
 <br><br>
 
 *୨୧ Here come the sun, and I say, it's all right!*
