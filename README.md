@@ -44,13 +44,12 @@ Hi! I'm **Fatimah**, an Information Technology student.
 
 ---
 
-## 🌷 GitHub Statistics
+## 🌷 GitHub Contributions
+
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=default&title_color=C38EB4&icon_color=E6A6C7&text_color=8E7C93&bg_color=FFF8FC&hide_border=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=default&title_color=C38EB4&text_color=8E7C93&bg_color=FFF8FC&hide_border=true" />
+<img src="https://raw.githubusercontent.com/serendwin/serendwin/output/github-contribution-grid-snake.svg" width="100%">
 
 </div>
 
