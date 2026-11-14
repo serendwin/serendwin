@@ -8,28 +8,52 @@
   About Me
 </h2>
 
-<img align="right" src="./assets/ngoding.gif" width="150" hspace="20">
+<img align="right" src="./assets/ngoding.gif" width="200">
 
-- 🎓 Information Engineering Student at Universitas Pancasila
-- 💻 Interested in Software Development
-- 🌸 Currently exploring Programming and Technology
-- 🤖 Interested in Artificial Intelligence & Data Science
-- 🎶 I Love Playing Music
+<img src="https://img.shields.io/badge/🎓-Information%20Engineering%20Student-FFC8DD?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/💻-Software%20Development-CDB4DB?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/🌸-Exploring%20Programming%20%26%20Tech-FFD1DC?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/🤖-AI%20%26%20Data%20Science-B5D5F5?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/🎶-Love%20Playing%20Music-BDE0C7?style=for-the-badge" />
+--- 
+
+<h2>
+  <img src="./assets/bahasa.gif" width="80" align="absmiddle">
+  Languages
+</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/HTML5-FFC8DD?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-CDB4DB?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-FFE5EC?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-FFB6C1?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-FFD1DC?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-E6B8F0?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-B5D5F5?style=flat-square&logo=mysql&logoColor=white" />
+</div>
 
 --- 
 
 <h2>
   <img src="./assets/tools.gif" width="80" align="absmiddle">
-  Languages
+  Tools
 </h2>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mysql&theme=light" />
+<img src="https://img.shields.io/badge/Git-FFC8B4?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-CDB4DB?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-B5D5F5?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-D9D9E3?style=flat-square&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/GNU%20Octave-BDE0C7?style=flat-square&logo=octave&logoColor=white" />
+<img src="https://img.shields.io/badge/ArcMap-A9D6E5?style=flat-square&logo=arcgis&logoColor=white" />
+<img src="https://img.shields.io/badge/Orange-FFD1B3?style=flat-square" />
+<img src="https://img.shields.io/badge/Google%20Colab-FFE5A8?style=flat-square&logo=googlecolab&logoColor=white" />
 </div>
 
 ---
 
-## 🌷 GitHub Contributions
-
+<h2>
+  <img src="./assets/awan.gif" width="80" align="absmiddle">
+  GitHub Contributions
+</h2>
 
 <div align="center">
 
