@@ -40,7 +40,7 @@ Hi! I'm **Fatimah**, an Information Technology student.
 </td>
 <td width="40%" align="center">
 
-<img src="./assets/coding-pastel.gif" width="250">
+<img src="./assets/ngoding.gif" width="250">
 
 </td>
 </tr>
