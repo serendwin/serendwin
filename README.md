@@ -76,5 +76,6 @@ Hi! I'm **Fatimah**, an Information Technology student.
 
 </div>
 <div align="center">
-  <img src="./assets/pixel-art.gif" width="400">
+  <img src="./assets/pixel-art.png" width="400">
 </div>
+
