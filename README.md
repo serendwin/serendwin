@@ -27,19 +27,24 @@ Hi! I'm **Fatimah**, an Information Technology student.
 
 ## 🧁 Currently Learning
 
-- Web Development
-- Database Management
-- Artificial Intelligence
-- Data Science
-- Software Engineering
+<table>
+<tr>
+<td valign="center" width="60%">
 
-<div align="center">
+- 🌐 Web Development
+- 🗄️ Database Management
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- 💻 Software Engineering
 
-<img src="./assets/ngoding.gif" width="350">
+</td>
+<td width="40%" align="center">
 
-<p><i>Just a girl who loves coding ♡</i></p>
+<img src="./assets/coding-pastel.gif" width="250">
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
