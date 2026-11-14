@@ -37,7 +37,7 @@
 --- 
 
 <h2>
-  <img src="./assets/tools.gif" width="80" align="absmiddle">
+  <img src="./assets/tools.gif" width="90" align="absmiddle">
   Tools
 </h2>
 <div align="center">
