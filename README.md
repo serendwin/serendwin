@@ -81,7 +81,7 @@
 <img src="https://img.shields.io/badge/GitHub-F8DCEB?style=for-the-badge&logo=github&logoColor=8E6B91"/>
 </a>
 
-<a href="https://linkedin.com/in/fatimah-suprihatin-139b72419">
+<a href="https://linkedin.com/in/fatimah-suprihatin">
 <img src="https://img.shields.io/badge/LinkedIn-EADCF8?style=for-the-badge&logo=linkedin&logoColor=8E6B91"/>
 </a>
 
