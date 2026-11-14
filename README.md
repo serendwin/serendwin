@@ -5,47 +5,31 @@
 
 ## 🎀 About Me
 
-Hi! I'm **Fatimah**, an Information Technology student.
+<img align="right" src="./assets/ngoding.gif" width="150" hspace="30">
 
 - 🎓 Information Engineering Student at Universitas Pancasila
 - 💻 Interested in Software Development
 - 🌸 Currently exploring Programming and Technology
 - 🤖 Interested in Artificial Intelligence & Data Science
-- ☁️ Always learning something new!
+- 🎶 I Love Playing Music
 
----
+--- 
 
 ## 💗 Languages & Tools
 
-<div align="center">
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mysql,git,github,vscode&theme=light" />
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mysql&theme=light" />
+
+<br>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
 
 </div>
-
----
-
-## 🧁 Currently Learning
-
-<table>
-<tr>
-<td width="65%" valign="middle">
-
-- 🌐 I'm currently learning Web Development
-- 🗄️ Exploring Database Management
-- 🤖 Interested in Artificial Intelligence
-- 📊 Learning Data Science
-- 💻 Improving my Software Engineering skills
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="./assets/ngoding.gif" width="230">
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🌷 GitHub Contributions
