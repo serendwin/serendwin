@@ -95,6 +95,6 @@
 
 <br><br>
 
-*୨୧ Here come the sun, and I say, it's all right!*
+*୨୧ Here come the sun, and I say, it's all right! - the beatles 1969*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0D9,50:E6D5F7,100:FCE4EC&height=100&section=footer" width="100%"/>
