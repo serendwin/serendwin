@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**serendwin/serendwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:E6D5F7,100:FFF0D9&height=200&section=header&text=Hello,%20I'm%20Fatimah!&fontSize=40&fontColor=8E6B91&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-Here are some ideas to get you started:
+### 🌷 Welcome to My GitHub Profile 🌷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Information Technology Student | Tech Enthusiast*
+
+♡ Learning, Exploring, and Creating ♡
+
+</div>
+
+---
+
+## 🎀 About Me
+
+Hi! I'm **Fatimah**, an Information Technology student.
+
+- 🎓 Information Engineering Student at Universitas Pancasila
+- 💻 Interested in Software Development
+- 🌸 Currently exploring Programming and Technology
+- 🤖 Interested in Artificial Intelligence & Data Science
+- ☁️ Always learning something new!
+
+---
+
+## 💗 Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mysql,git,github,vscode&theme=light" />
+
+</div>
+
+---
+
+## 🧁 Currently Learning
+
+- Web Development
+- Database Management
+- Artificial Intelligence
+- Data Science
+- Software Engineering
+
+---
+
+## 🌷 GitHub Statistics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=default&title_color=C38EB4&icon_color=E6A6C7&text_color=8E7C93&bg_color=FFF8FC&hide_border=true" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=default&title_color=C38EB4&text_color=8E7C93&bg_color=FFF8FC&hide_border=true" />
+
+</div>
+
+---
+
+## 🦢 Let's Connect!
+
+<div align="center">
+
+<a href="https://github.com/USERNAME_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-F8DCEB?style=for-the-badge&logo=github&logoColor=8E6B91"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-EADCF8?style=for-the-badge&logo=linkedin&logoColor=8E6B91"/>
+</a>
+
+<br><br>
+
+*୨୧ Keep growing, keep learning, and keep creating!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0D9,50:E6D5F7,100:FCE4EC&height=100&section=footer" width="100%"/>
+
+</div>
