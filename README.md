@@ -4,7 +4,7 @@
 </div>
 
 <h2>
-  <img src="./assets/love.gif" width="80" align="absmiddle">
+  <img src="./assets/love.gif" width="90" align="absmiddle">
   About Me
 </h2>
 
