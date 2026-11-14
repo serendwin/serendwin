@@ -75,3 +75,6 @@ Hi! I'm **Fatimah**, an Information Technology student.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0D9,50:E6D5F7,100:FCE4EC&height=100&section=footer" width="100%"/>
 
 </div>
+<div align="center">
+  <img src="./assets/pixel-art.gif" width="400">
+</div>
