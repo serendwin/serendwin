@@ -22,13 +22,16 @@
   Languages
 </h2>
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-FFC8DD?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-CDB4DB?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-FFE5EC?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-FFB6C1?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-FFD1DC?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-E6B8F0?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-B5D5F5?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-FFC8DD?style=for-the-badge&logo=html5&logoColor=white" height="100" />
+<img src="https://img.shields.io/badge/CSS3-CDB4DB?style=for-the-badge&logo=css3&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/JavaScript-FFE5EC?style=for-the-badge&logo=javascript&logoColor=black" height="40" />
+<img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" height="40" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-FFD1DC?style=for-the-badge&logo=openjdk&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/C++-E6B8F0?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/MySQL-B5D5F5?style=for-the-badge&logo=mysql&logoColor=white" height="40" />
 </div>
 
 --- 
