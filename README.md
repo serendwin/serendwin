@@ -22,16 +22,16 @@
   Languages
 </h2>
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-FFC8DD?style=for-the-badge&logo=html5&logoColor=white" height="100" />
-<img src="https://img.shields.io/badge/CSS3-CDB4DB?style=for-the-badge&logo=css3&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/JavaScript-FFE5EC?style=for-the-badge&logo=javascript&logoColor=black" height="40" />
-<img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/HTML5-FFC8DD?style=for-the-badge&logo=html5&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/CSS3-CDB4DB?style=for-the-badge&logo=css3&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/JavaScript-FFE5EC?style=for-the-badge&logo=javascript&logoColor=black" height="50" />
+<img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" height="50" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Java-FFD1DC?style=for-the-badge&logo=openjdk&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/C++-E6B8F0?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/MySQL-B5D5F5?style=for-the-badge&logo=mysql&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Java-FFD1DC?style=for-the-badge&logo=openjdk&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/C++-E6B8F0?style=for-the-badge&logo=cplusplus&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/MySQL-B5D5F5?style=for-the-badge&logo=mysql&logoColor=white" height="50" />
 </div>
 
 --- 
@@ -41,14 +41,18 @@
   Tools
 </h2>
 <div align="center">
-<img src="https://img.shields.io/badge/Git-FFC8B4?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-CDB4DB?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-B5D5F5?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-D9D9E3?style=flat-square&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/GNU%20Octave-BDE0C7?style=flat-square&logo=octave&logoColor=white" />
-<img src="https://img.shields.io/badge/ArcMap-A9D6E5?style=flat-square&logo=arcgis&logoColor=white" />
-<img src="https://img.shields.io/badge/Orange-FFD1B3?style=flat-square" />
-<img src="https://img.shields.io/badge/Google%20Colab-FFE5A8?style=flat-square&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-FFC8B4?style=for-the-badge&logo=git&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/GitHub-CDB4DB?style=for-the-badge&logo=github&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/VS%20Code-B5D5F5?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/Unity-D9D9E3?style=for-the-badge&logo=unity&logoColor=white" height="50" />
+
+<br>
+
+<img src="https://img.shields.io/badge/GNU%20Octave-BDE0C7?style=for-the-badge&logo=octave&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/ArcMap-A9D6E5?style=for-the-badge&logo=arcgis&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/Orange-FFD1B3?style=for-the-badge" height="50" />
+<img src="https://img.shields.io/badge/Google%20Colab-FFE5A8?style=for-the-badge&logo=googlecolab&logoColor=white" height="50" />
+
 </div>
 
 ---
