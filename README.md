@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="./assets/cat-blink.gif" width="200">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:E6D5F7,100:FFF0D9&height=200&section=header&text=Hello,%20I'm%20Fatimah!&fontSize=40&fontColor=8E6B91&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 ### 🌷 Welcome to My GitHub Profile 🌷
