@@ -29,25 +29,24 @@ Hi! I'm **Fatimah**, an Information Technology student.
 
 <table>
 <tr>
-<td valign="center" width="60%">
+<td width="65%" valign="middle">
 
-- 🌐 Web Development
-- 🗄️ Database Management
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 💻 Software Engineering
+- 🌐 I'm currently learning Web Development
+- 🗄️ Exploring Database Management
+- 🤖 Interested in Artificial Intelligence
+- 📊 Learning Data Science
+- 💻 Improving my Software Engineering skills
 
 </td>
-<td width="40%" align="center">
+<td width="35%" align="center" valign="middle">
 
-<img src="./assets/ngoding.gif" width="250">
+<img src="./assets/ngoding.gif" width="230">
 
 </td>
 </tr>
 </table>
 
 ---
-
 
 ## 🌷 GitHub Contributions
 
