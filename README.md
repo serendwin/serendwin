@@ -1,6 +1,7 @@
 <div align="center">
 <img src="./assets/gif-cute.gif" width="200">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:E6D5F7,100:FFF0D9&height=200&section=header&text=Hello,%20I'm%20Fatimah!&fontSize=40&fontColor=8E6B91&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=35&duration=2500&pause=1000&color=C38EB4&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+I'm+Fatimah!+%E2%99%A1;Welcome+to+my+little+space+%F0%9F%8C%B7;Nice+to+meet+you!+%F0%9F%8E%80&repeat=true" />
+</div>
 
 ### 🌷 Welcome to My GitHub Profile 🌷
 
