@@ -3,16 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=35&duration=2500&pause=1000&color=C38EB4&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+I'm+Fatimah!+%E2%99%A1;Welcome+to+my+little+space+%F0%9F%8C%B7;Nice+to+meet+you!+%F0%9F%8E%80&repeat=true" />
 </div>
 
-### 🌷 Welcome to My GitHub Profile 🌷
-
-*Information Technology Student | Tech Enthusiast*
-
-♡ Learning, Exploring, and Creating ♡
-
-</div>
-
----
-
 ## 🎀 About Me
 
 Hi! I'm **Fatimah**, an Information Technology student.
