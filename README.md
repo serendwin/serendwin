@@ -33,7 +33,16 @@ Hi! I'm **Fatimah**, an Information Technology student.
 - Data Science
 - Software Engineering
 
+<div align="center">
+
+<img src="./assets/ngoding.gif" width="350">
+
+<p><i>Just a girl who loves coding ♡</i></p>
+
+</div>
+
 ---
+
 
 ## 🌷 GitHub Contributions
 
